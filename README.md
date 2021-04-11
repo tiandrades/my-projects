@@ -2,9 +2,9 @@
 All projects that I completed and or are in progress.
 
 ## Bootcamp Ignite
-*01, 02, 03... -  refers to the chapter that the challenge is part of
+*01, 02, 03... -  refers to the chapter that the challenge is part of*
 
-*ReactJS - refers to reactjs trail
+*ReactJS - refers to reactjs trail*
 
 - All Ignite's challenges
   - [ReactJS - 01 - React concepts](https://github.com/TiagooAndrade/ignite-reactjs-challenge-conceitos-do-react)
@@ -39,4 +39,4 @@ All projects that I completed and or are in progress.
 ## Other projects
 - [MaratonaDiscover - dev.finance](https://github.com/TiagooAndrade/dev.finance)
 
-*I have private projects that will be released to the public in the future.
+*I have private projects that will be released to the public in the future.*
