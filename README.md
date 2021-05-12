@@ -32,7 +32,8 @@ All projects that I completed and or are in progress.
   - [Organizing your studies](https://github.com/TiagooAndrade/gostack-desafio-Organizando-seus-estudos)
 
 ## NLW Projects
-- [NLW#04 - Trail: NodeJs - NLW-NPS](https://github.com/TiagooAndrade/NPS-NLW)
+- [NLW#05 - Trail: ReactJS - podcastr](https://github.com/TiagooAndrade/podcastr)
+- [NLW#04 - Trail: Node.js - NLW-NPS](https://github.com/TiagooAndrade/NPS-NLW)
 - [NLW#03 - Happy](https://github.com/TiagooAndrade/Happy)
 - [NLW#02 - Proffy](https://github.com/TiagooAndrade/Proffy)
 
